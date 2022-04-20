@@ -20,7 +20,7 @@ Veri Yapıları ve Algoritmalar Dersi - Binary Search Tree Projesi
 
 5.Adım --> **6** leaf node'dur yani son node'dur,
 
-6.Adım --> **9** leaf node'dur yani son node'dur.,
+6.Adım --> **9** leaf node'dur yani son node'dur,
 
 7.Adım --> **0** leaf node'dur yani son node'dur,
 
